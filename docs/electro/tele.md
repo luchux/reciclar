@@ -1,4 +1,4 @@
-====== Televisores y pantallas LCD
+# Televisores y pantallas LCD
 
 # Seguridad
 
@@ -13,4 +13,4 @@
 - Comienza por remover los tornillos traseros que atornillan la tapa.
 - Desconecta las placas de los cables.
 - Desatornilla y remueve las placas.
-- Separa las partes. 
+- Separa las partes.

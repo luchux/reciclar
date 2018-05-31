@@ -1,4 +1,4 @@
-====== Impresoras, Fotocopiadoras, Scanners
+# Impresoras, Fotocopiadoras, Scanners
 
 # Seguridad
 
