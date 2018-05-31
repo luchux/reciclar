@@ -1,5 +1,8 @@
-# this is h1
-[I'm an inline-style link](https://www.google.com)
-[test](https://luchux.github.io/reciclar/test2.html)
-[test](https://luchux.github.io/reciclar/test2.md)
-[test](https://luchux.github.io/reciclar/test2)
+# Gracias por colaborar.
+### Reciclar es un proyecto cooperativo, colaborativo, abierto.
+
+#### Buscamos generar una guía de como podemos reutilizar y separar para reciclar lo que no necesitamos más pero que a otros puede servir.
+
+
+[test](https://luchux.github.io/reciclar/seco)
+[test](https://luchux.github.io/reciclar/organico)
