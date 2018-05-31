@@ -5,4 +5,7 @@
 
 
 [Materiales Secos](https://luchux.github.io/reciclar/seco)
-[Orgánicos - Restos de Comida, podas y hojas de árboles, etc.](https://luchux.github.io/reciclar/organico)
+
+[Electrónicos](https://luchux.github.io/reciclar/electro)
+
+[Orgánicos - Restos de Comida, podas y hojas de árboles, etc. ](https://luchux.github.io/reciclar/organico)
