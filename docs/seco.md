@@ -1,4 +1,4 @@
-====== Materiales secos
+# Materiales secos
 
 ### Recordá que la mejor manera de quitar residuos de tu casa, es separar las cosas por su similaritudo. Si juntas todas tapitas de frascos por ejemplo, puede haber alguien a quien le sirvan. Mantener las cosas en orden, hace mucho más fácil reutilizar.
 
